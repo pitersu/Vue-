@@ -26,4 +26,4 @@ yarn run lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://raw.githubusercontent.com/pitersu/Vue-taobao/master/src/assets/test.png).
+See ![Configuration Reference](https://raw.githubusercontent.com/pitersu/Vue-taobao/master/src/assets/test.png).
