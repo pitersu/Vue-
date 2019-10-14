@@ -28,4 +28,4 @@ yarn run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 https://github.com/pitersu/Vue-taobao/blob/master/src/assets/test.png
-![Alt text](/pitersu/Vue-taobao/blob/master/src/assets/test.png)
+![Alt text](/pitersu/Vue-taobao/blob/master/src/assets/test.png?raw=true)
